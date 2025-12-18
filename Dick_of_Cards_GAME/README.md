@@ -117,7 +117,7 @@ The following rules define how bidding, card consumption, and visible Diamond ca
 
 5. **Tie (Equal Bid) Rule**
 
-   * If both players bid cards of equal value, **no one wins the Diamond card**.
+   * If both players bid cards of equal value, **share the diamond card in to two and values should be euqual to them**.
    * Both bid cards are still **consumed and removed from play**.
    * The same Diamond card is carried forward to the next round.
 
